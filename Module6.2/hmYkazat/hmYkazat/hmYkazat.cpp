@@ -4,7 +4,7 @@
 int main()
 {
 	int arr1{ 10 };
-	std::shared_ptr<int[]> s_ptr = std::make_shared<int[]>(arr1);
+	std::shared_ptr<int[]> s_ptr = std::shared_ptr<int[]>(new int[10]);
 	int n1;
 	int result = 0;
 	for (int i = 0; i < arr1; i++)
