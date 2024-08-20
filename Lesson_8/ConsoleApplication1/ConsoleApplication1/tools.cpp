@@ -21,9 +21,6 @@ void Book::setTitle(std::string title) // setter
 
 std::string Book::getTitle() //getter
 {
-	std::cout << "Write Title: ";
-	std::cin >> _title;
-	std::cout << std::endl;
 	return _title;
 }
 
@@ -34,9 +31,6 @@ void Book::setAuthor(std::string author)
 
 std::string Book::getAuthor()
 {
-	std::cout << "Write Author: ";
-	std::cin >> _author;
-	std::cout << std::endl;
 	return _author;
 }
 
@@ -47,10 +41,8 @@ void Book::setYear(int year)
 
 int Book::getYear()
 {
-	std::cout << "Write Year: ";
-	std::cin >> _year;
-	std::cout << std::endl;
-	return _year;
+	
+		return _year;
 }
 
 void Book::printinfo()

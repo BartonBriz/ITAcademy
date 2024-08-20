@@ -12,14 +12,14 @@ int main()
     print1.setAuthor("Straups");
     print1.setYear(2019);
 
-    print2.getTitle();
-    print2.getAuthor();
-    print2.getYear();
-
-    std::cout << "Print1: ";
+    std::cout << "Print1: " << std::endl;
     print1.printinfo();
-    std::cout << "Print2: ";
-    print2.printinfo();
+   // print2.getAuthor() = "Josh"; 
+   // no valid
+    // print2.getTitle() = "C#"; 
+    // no valid
+    //print2.getYear() = -2000; 
+    // no valid
    
     return 0;
 }
