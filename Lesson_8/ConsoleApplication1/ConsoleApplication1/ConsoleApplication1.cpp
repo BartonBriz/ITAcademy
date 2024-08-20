@@ -1,23 +1,17 @@
-﻿
+﻿// 
 #include "tools.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    /*smallobj s1, s2;
-    s1.setdata(5);
-    s2.setdata(43);
-    s1.showdata();
-    s2.showdata();
-    */
+    Book printClassic("Java", "Ketti", 2018);
+    Book print1, print2;
 
-    Book print1 ,print2;
+    printClassic.printinfo(); // use constructor
 
     print1.setTitle("C++");
     print1.setAuthor("Straups");
     print1.setYear(2019);
 
-   
     print2.getTitle();
     print2.getAuthor();
     print2.getYear();
@@ -26,5 +20,6 @@ int main()
     print1.printinfo();
     std::cout << "Print2: ";
     print2.printinfo();
+   
     return 0;
 }
