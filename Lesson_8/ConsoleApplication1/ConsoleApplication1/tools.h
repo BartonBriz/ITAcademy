@@ -20,13 +20,13 @@ public:
 	std::string getAuthor();
 	int getYear();
 	
-	std::string _title;
-	std::string _author;
-	int _year;
+	
 
 protected:
 
 
 private:
-	
+	std::string _title;
+	std::string _author;
+	int _year;
 };
