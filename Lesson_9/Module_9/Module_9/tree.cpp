@@ -1,15 +1,11 @@
 #include "tools.h"
 
-
-
-
-
 Tree::Tree(std::string name, int id) // base constr
 {
 	_name = name; 
 	_id = new int;
 	*_id = id;
-	_count++;
+	_count;
 	wind();
 	std::cout << "\n" << "COUNT " << getCount() << "\n\n";
 	
@@ -23,12 +19,12 @@ Tree::Tree(Tree& p) // constructor copy
 	{
 		*p._id += 1;
 	}
-	_count++;
+	++_count;
 	p.wind();
 	std::cout << "\n" << "COUNT " << p.getCount() << "\n\n";
 	
 }
-std::string Tree::getName()
+std::string Tree::getName() const
 {
 	return _name;
 }
@@ -36,6 +32,11 @@ std::string Tree::getName()
 int Tree::getCount()
 {
 	return _count;
+}
+
+int Tree::getID() const
+{
+	return 0;
 }
 
 int Tree::_count = 0;
@@ -46,10 +47,12 @@ void Tree::wind()
 	std::cout << "Name " << _name << "\n" << "ID " << *_id << std::endl;
 }
 
+
+
 Tree::~Tree()
 {
 	delete _id;
-	std::cout << "Deleted constructor " << _id << std::endl;
+	std::cout << "Deleted constructor " << _id <<" Count " << _count-- << std::endl;
 }
 
 

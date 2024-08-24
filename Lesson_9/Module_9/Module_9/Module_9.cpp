@@ -1,5 +1,6 @@
 ﻿
 #include "tools.h"
+#include "forest.h"
 
 int main()
 {
@@ -8,4 +9,6 @@ int main()
     Tree b(a);
     Tree c(b);
     Tree d(c);
+
+    
 }

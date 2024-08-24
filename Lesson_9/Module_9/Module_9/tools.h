@@ -7,22 +7,19 @@
 class Tree
 {
 public:
-	
-	Tree(std::string name,int id);
+
+	Tree(std::string name, int id);
 	Tree(Tree& p);
 
-	std::string getName();
+	std::string getName() const;
 	int getCount();
-	
-
-
-
+	int getID() const;
 	void wind();
 	~Tree();
 protected:
 private:
-	std::string _name ;
-	int* _id ;
-	static int _count ;
-
+	std::string _name;
+	int* _id;
+	static int _count;
 };
+

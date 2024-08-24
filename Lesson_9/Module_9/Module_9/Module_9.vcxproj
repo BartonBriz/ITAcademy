@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="forest.cpp" />
     <ClCompile Include="Module_9.cpp" />
     <ClCompile Include="tree.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="forest.h" />
     <ClInclude Include="tools.h" />
     <ClInclude Include="tree.h" />
   </ItemGroup>
