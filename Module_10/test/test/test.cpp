@@ -6,14 +6,17 @@
 
 int main()
 {
-    auto n = new Human ("Michael", "Barton");
+    auto n = new Human{ "Michael", "Barton" };
     n->print();
     n->setAge(23);
     n->print();
 
-    auto st = new Student("Vlad" , "Krachevskiu", 234565);
+    auto st = new Student{ "Vlad" , "Krachevskiu", 234565 };
     st->setAge(33);
     st->print();
+
+    auto tc = new Teacher{"Petr", "Kolesnik"};
+    tc->print();
 
     
 }

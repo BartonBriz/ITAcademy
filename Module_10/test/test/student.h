@@ -4,8 +4,9 @@ class Student : public Human
 {
 public:
 	
-	Student(std::string fname, std::string lname, int group): _group(group) , Human(lname, fname) {};
+	Student(std::string fname, std::string lname, int group) : _group(group), Human{ lname, fname } {};
 	void print();
+	void printGroup();
 	int getGroup();
 	void setGroup(int group);
 protected:
