@@ -5,6 +5,8 @@
 class Tree
 {
 public:
+	Tree();
+	~Tree();
 	Tree(std::string name, std::string vid, TypeTree treetype);
 	virtual void wind() = 0; // abstract methods
 	TypeTree getTypetree();

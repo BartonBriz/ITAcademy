@@ -5,10 +5,17 @@
 #include "Klen.h"
 #include "Sosna.h"
 #include <memory>
-
+#include "Forest.h"
+/// <summary>
+/// * Create Tree
+/// * counter "shared"
+/// 
+/// </summary>
+/// <returns></returns>
 
 int main()
 {
+
 	auto db = new Dub{"Dub", "Letniy"};
 	//db->wind();
 	//std::cout << TypeToString(db->getTypetree()) << std::endl;
@@ -36,5 +43,14 @@ int main()
 	std::shared_ptr<Klen> kl3 = kl2;
 	kl3->wind();
 	std::cout << "Count: " << kl2.use_count() << std::endl;
+
+
+	Forest fortree{};
+	std::cout << "Forest:Tree-> ";
+	fortree.Add(new Dub("Dub", "Letniy"));
+	fortree.wind();
+
+	fortree.Add(new Klen("Klen", "trrrrr"));
+	fortree.wind();
 }
 

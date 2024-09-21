@@ -1,5 +1,13 @@
 #include "Tree.h"
 
+Tree::Tree()
+{
+}
+
+Tree::~Tree()
+{
+}
+
 Tree::Tree(std::string name, std::string vid, TypeTree treetype)
 {
 	_name = name;

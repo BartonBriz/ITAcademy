@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Dub.cpp" />
+    <ClCompile Include="Forest.cpp" />
     <ClCompile Include="HW_11.cpp" />
     <ClCompile Include="Klen.cpp" />
     <ClCompile Include="Sosna.cpp" />
@@ -135,6 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dub.h" />
+    <ClInclude Include="Forest.h" />
     <ClInclude Include="Klen.h" />
     <ClInclude Include="Sosna.h" />
     <ClInclude Include="Tree.h" />
