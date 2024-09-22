@@ -5,6 +5,7 @@ class Sosna : public Tree
 {
 public:
 	Sosna(std::string name, std::string vid);
+	~Sosna();
 	void wind() override;
 };
 

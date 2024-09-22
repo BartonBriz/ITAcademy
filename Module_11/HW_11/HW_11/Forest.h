@@ -4,7 +4,7 @@
 class Forest : public Tree
 {
 public:
-	
+	~Forest();
 	void Add(Tree* foresttree);
 	void wind();
 private:

@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Dub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Dub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Dub.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Dub.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Forest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Forest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\typeTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\typeTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\HW_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\HW_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Forest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Forest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Dub.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Dub.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Dub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Dub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Sosna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Sosna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Sosna.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Sosna.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Sosna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Sosna.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Klen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Klen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Klen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Klen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Forest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Forest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\typeTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\typeTree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|solutionrelative:HW_11\\Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA74F716-4E47-4282-8E68-85CA43D75F3D}|HW_11\\HW_11.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Tree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -50,74 +58,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Sosna.cpp",
-              "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Sosna.cpp",
-              "RelativeDocumentMoniker": "HW_11\\Sosna.cpp",
-              "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Sosna.cpp",
-              "RelativeToolTip": "HW_11\\Sosna.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-18T22:10:26.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Sosna.h",
               "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Sosna.h",
               "RelativeDocumentMoniker": "HW_11\\Sosna.h",
               "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Sosna.h",
               "RelativeToolTip": "HW_11\\Sosna.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-18T22:09:31.742Z"
+              "WhenOpened": "2024-09-18T22:09:31.742Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Dub.cpp",
               "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Dub.cpp",
               "RelativeDocumentMoniker": "HW_11\\Dub.cpp",
               "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Dub.cpp",
               "RelativeToolTip": "HW_11\\Dub.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-17T16:33:08.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dub.h",
               "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Dub.h",
               "RelativeDocumentMoniker": "HW_11\\Dub.h",
               "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Dub.h",
               "RelativeToolTip": "HW_11\\Dub.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-17T16:30:06.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HW_11.cpp",
               "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\HW_11.cpp",
               "RelativeDocumentMoniker": "HW_11\\HW_11.cpp",
               "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\HW_11.cpp",
               "RelativeToolTip": "HW_11\\HW_11.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-17T16:08:12.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Forest.cpp",
+              "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Forest.cpp",
+              "RelativeDocumentMoniker": "HW_11\\Forest.cpp",
+              "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Forest.cpp",
+              "RelativeToolTip": "HW_11\\Forest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T10:30:46.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sosna.cpp",
+              "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Sosna.cpp",
+              "RelativeDocumentMoniker": "HW_11\\Sosna.cpp",
+              "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Sosna.cpp",
+              "RelativeToolTip": "HW_11\\Sosna.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-18T22:10:26.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Klen.h",
+              "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Klen.h",
+              "RelativeDocumentMoniker": "HW_11\\Klen.h",
+              "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Klen.h",
+              "RelativeToolTip": "HW_11\\Klen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T00:25:30.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Klen.cpp",
+              "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Klen.cpp",
+              "RelativeDocumentMoniker": "HW_11\\Klen.cpp",
+              "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Klen.cpp",
+              "RelativeToolTip": "HW_11\\Klen.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T00:25:42.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Tree.cpp",
               "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Tree.cpp",
               "RelativeDocumentMoniker": "HW_11\\Tree.cpp",
@@ -129,20 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Forest.cpp",
-              "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Forest.cpp",
-              "RelativeDocumentMoniker": "HW_11\\Forest.cpp",
-              "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Forest.cpp",
-              "RelativeToolTip": "HW_11\\Forest.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-21T10:30:46.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "typeTree.h",
               "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\typeTree.h",
               "RelativeDocumentMoniker": "HW_11\\typeTree.h",
@@ -150,25 +186,24 @@
               "RelativeToolTip": "HW_11\\typeTree.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-21T13:01:23.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T13:01:23.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Forest.h",
               "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Forest.h",
               "RelativeDocumentMoniker": "HW_11\\Forest.h",
               "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Forest.h",
               "RelativeToolTip": "HW_11\\Forest.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-20T21:24:16.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Tree.h",
               "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_11\\HW_11\\HW_11\\Tree.h",
               "RelativeDocumentMoniker": "HW_11\\Tree.h",

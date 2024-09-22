@@ -2,6 +2,11 @@
 
 
 
+Forest::~Forest()
+{
+	std::cout << "Good bye Forest." << std::endl;
+}
+
 void Forest::Add(Tree* foresttree)
 {
 	_foresttree.push_back(foresttree);
