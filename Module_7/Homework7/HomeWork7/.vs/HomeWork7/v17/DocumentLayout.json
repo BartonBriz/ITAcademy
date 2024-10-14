@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_7\\Homework7\\HomeWork7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D52D04-2AF8-40DF-B1C6-EE3DA44157DB}|HomeWork7\\HomeWork7.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_7\\Homework7\\HomeWork7\\HomeWork7\\Shared.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D52D04-2AF8-40DF-B1C6-EE3DA44157DB}|HomeWork7\\HomeWork7.vcxproj|solutionrelative:HomeWork7\\Shared.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D52D04-2AF8-40DF-B1C6-EE3DA44157DB}|HomeWork7\\HomeWork7.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_7\\Homework7\\HomeWork7\\HomeWork7\\Uniqe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D52D04-2AF8-40DF-B1C6-EE3DA44157DB}|HomeWork7\\HomeWork7.vcxproj|solutionrelative:HomeWork7\\Uniqe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D52D04-2AF8-40DF-B1C6-EE3DA44157DB}|HomeWork7\\HomeWork7.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_7\\Homework7\\HomeWork7\\HomeWork7\\HomeWork7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D52D04-2AF8-40DF-B1C6-EE3DA44157DB}|HomeWork7\\HomeWork7.vcxproj|solutionrelative:HomeWork7\\HomeWork7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D52D04-2AF8-40DF-B1C6-EE3DA44157DB}|HomeWork7\\HomeWork7.vcxproj|F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_7\\Homework7\\HomeWork7\\HomeWork7\\Toolsfunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34D52D04-2AF8-40DF-B1C6-EE3DA44157DB}|HomeWork7\\HomeWork7.vcxproj|solutionrelative:HomeWork7\\Toolsfunc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shared.cpp",
+              "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_7\\Homework7\\HomeWork7\\HomeWork7\\Shared.cpp",
+              "RelativeDocumentMoniker": "HomeWork7\\Shared.cpp",
+              "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_7\\Homework7\\HomeWork7\\HomeWork7\\Shared.cpp",
+              "RelativeToolTip": "HomeWork7\\Shared.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T19:24:07.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Uniqe.cpp",
+              "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_7\\Homework7\\HomeWork7\\HomeWork7\\Uniqe.cpp",
+              "RelativeDocumentMoniker": "HomeWork7\\Uniqe.cpp",
+              "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_7\\Homework7\\HomeWork7\\HomeWork7\\Uniqe.cpp",
+              "RelativeToolTip": "HomeWork7\\Uniqe.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T19:23:29.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Toolsfunc.h",
+              "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_7\\Homework7\\HomeWork7\\HomeWork7\\Toolsfunc.h",
+              "RelativeDocumentMoniker": "HomeWork7\\Toolsfunc.h",
+              "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_7\\Homework7\\HomeWork7\\HomeWork7\\Toolsfunc.h",
+              "RelativeToolTip": "HomeWork7\\Toolsfunc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-14T19:21:52.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeWork7.cpp",
+              "DocumentMoniker": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_7\\Homework7\\HomeWork7\\HomeWork7\\HomeWork7.cpp",
+              "RelativeDocumentMoniker": "HomeWork7\\HomeWork7.cpp",
+              "ToolTip": "F:\\ItAcademy\\BartonBriz\\ITAcademy\\Module_7\\Homework7\\HomeWork7\\HomeWork7\\HomeWork7.cpp",
+              "RelativeToolTip": "HomeWork7\\HomeWork7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T19:21:07.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
